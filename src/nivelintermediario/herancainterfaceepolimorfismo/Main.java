@@ -1,4 +1,4 @@
-package nivelintermediario;
+package nivelintermediario.herancainterfaceepolimorfismo;
 
 public class Main {
     public static void main(String[] args) {
